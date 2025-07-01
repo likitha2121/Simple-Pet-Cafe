@@ -1,6 +1,7 @@
 # 🐾 Pet Cafe Website
 
 Welcome to **Pet Cafe**, a simple and cute static website built using only **HTML** and **CSS**. This project showcases basic web design elements like navigation using `href`, lists, forms, and tables — perfect for beginners!
+This is my first web development project (academic purpose).
 
 ## 🌐 Demo
 
