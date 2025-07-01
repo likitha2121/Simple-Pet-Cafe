@@ -5,7 +5,6 @@ Welcome to **Pet Cafe**, a simple and cute static website built using only **HTM
 ## 🌐 Demo
 
 > A live version can be accessed (if deployed): [Pet Cafe Demo](https://likitha2121.github.io/Simple-Pet-Cafe/)  
-> _Replace the above link with your GitHub Pages URL if hosted._
 
 ---
 
